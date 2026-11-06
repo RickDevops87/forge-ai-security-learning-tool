@@ -1,0 +1,46 @@
+Screen {
+    background: #1a1a2e;
+    color: #e0e0e0;
+}
+
+#title {
+    color: #e94560;
+    text-style: bold;
+    width: 100%;
+    align: center middle;
+    height: 3;
+}
+
+#area-title {
+    color: #e94560;
+    text-style: bold;
+    width: 100%;
+    align: center middle;
+    height: 3;
+}
+
+#hint {
+    color: #a0a0a0;
+    text-style: italic;
+}
+
+Button {
+    margin: 0 1;
+    width: 100%;
+}
+
+#exercise-concept {
+    color: #e0e0e0;
+    padding: 1;
+}
+
+#exercise-status {
+    color: #e94560;
+    text-style: bold;
+    padding: 1;
+}
+
+#exercise-result {
+    color: #e0e0e0;
+    padding: 1;
+}
